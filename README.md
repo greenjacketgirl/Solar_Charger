@@ -11,3 +11,6 @@
 **Project Status** | At the current time, the project does not fully work. While the charger circuit does not have any fried or damaged components, it does not charge the lipo battery. The STAT 1 LED turns on, indicating "charging in progress", but no charging has taken place from what I could deduce. See the [Issues](https://github.com/greenjacketgirl/Solar_Charger/issues) page for updates on current bugs.
 
 REV 1: 05/26/2020 Build and Test Stage PART 1 | REV 2: 06/09/2020 Buil and Test Stage PART 2
+
+***
+page created by jordyn watkins | greenjacketgirl
